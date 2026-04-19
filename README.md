@@ -11,10 +11,10 @@
 # Use Case
 Perfect for:
 
-Research assistants
-Knowledge aggregation systems
-AI-powered documentation tools
-Automated report generation
+- Research assistants
+- Knowledge aggregation systems
+- AI-powered documentation tools
+- Automated report generation
 
 
 
